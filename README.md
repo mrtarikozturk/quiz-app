@@ -1,6 +1,6 @@
 # Quiz App 
 
-Website - [Quiz App]()
+Website - [Quiz App](https://quiz-application-3sthmo47f-mrtarikozturk-gmailcom.vercel.app/)
 
 ### Table of Contents
 
@@ -20,6 +20,7 @@ Website - [Quiz App]()
 - Git
 - async-await
 - Open Trivia Database API
+- dangerouslySetInnerHTML
 
 [Back To The Top](#quiz-app)
 
